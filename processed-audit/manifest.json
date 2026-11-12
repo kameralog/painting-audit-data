@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "reportSha256": "82411fe0114344d6db1a5181f79196db4aa182f54a5329d61da27ce32cc9bc07",
+  "siteCommit": "60d96b275d7599e36bad0212eed3d931fb6c5dee",
+  "processed": 364,
+  "prepared": 39,
+  "statuses": {
+    "binding_prepared": 39,
+    "no_verified_candidate": 221,
+    "already_bound": 23,
+    "special_rights_or_presentation_review": 2,
+    "editorial_or_source_review_required": 79
+  },
+  "resultFiles": [
+    "results-001.json",
+    "results-002.json",
+    "results-003.json",
+    "results-004.json",
+    "results-005.json",
+    "results-006.json"
+  ],
+  "preparedFiles": [
+    "prepared-001.json",
+    "prepared-002.json",
+    "prepared-003.json",
+    "prepared-004.json",
+    "prepared-005.json"
+  ],
+  "networkErrors": [],
+  "visualReviewPerformed": false,
+  "siteModified": false,
+  "quizCardsModified": false
+}
